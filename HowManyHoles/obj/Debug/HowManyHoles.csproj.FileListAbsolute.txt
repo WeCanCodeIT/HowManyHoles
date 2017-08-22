@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\bin\Debug\HowManyHoles.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\bin\Debug\HowManyHoles.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\bin\Debug\HowManyHoles.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\obj\Debug\HowManyHoles.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\obj\Debug\HowManyHoles.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HowManyHoles\HowManyHoles\obj\Debug\HowManyHoles.pdb
